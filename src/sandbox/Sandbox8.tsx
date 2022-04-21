@@ -22,7 +22,7 @@ import {
   rangeToIndexArray,
   angledEllipse,
   p2p,
-} from "./functions7";
+} from "./functions8";
 
 interface ComponentProps {
   //Your component props
